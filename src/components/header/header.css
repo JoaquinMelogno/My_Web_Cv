@@ -1,5 +1,5 @@
 header{
-    height: 100vh;
+    height: 120vh;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -89,6 +89,6 @@ header{
     .me{
         width: 80%;
         height: 420px;
-        margin: 10px auto;
+        margin: 20px ;
     }
 }
