@@ -1,6 +1,6 @@
 header{
     height: 120vh;
-    padding-top: 7rem;
+    padding-top: 3rem;
     overflow: hidden;
 }
 .header__container{
@@ -75,11 +75,12 @@ header{
 
 @media screen and (max-width:600px) {
     header{
-        height: 100vh;
+        min-height: 800px;
 
     }
     .header__container{
-        margin: 0 auto;
+        margin: 10px auto;
+
     }
 
     .scroll__down,
@@ -87,8 +88,8 @@ header{
         display: none;
     }
     .me{
-        width: 80%;
-        height: 100vh;
-        margin: 20px auto;
+        margin: 10px auto;
+        height: 420px;
+        width: auto;
     }
 }
