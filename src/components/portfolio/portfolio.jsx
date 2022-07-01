@@ -2,6 +2,8 @@ import React from 'react'
 import './portfolio.css'
 import trading from '../../assets/trading.jpg'
 import weather from '../../assets/accweather.png'
+import tripadv from '../../assets/tripadv.png'
+import snake from '../../assets/snake.png'
 
 
 
@@ -11,7 +13,7 @@ const Portfolio = () => {
   const data=[
     {
       id:1,
-      image:weather,
+      image:tripadv,
       title:"Weather App",
       github:'https://github.com',
     },
@@ -20,6 +22,12 @@ const Portfolio = () => {
       image:weather,
       title:"Weather App",
       github:'https://github.com/JoaquinMelogno/ForecastWApi',
+    },
+    {
+      id:3,
+      image:snake,
+      title:"Snake Game",
+      github:'https://github.com/JoaquinMelogno/Js_SnakeGame',
     },
   ]
   return (
