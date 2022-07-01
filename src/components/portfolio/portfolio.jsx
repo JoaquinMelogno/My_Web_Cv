@@ -1,6 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import trading from '../../assets/trading.jpg'
+import weather from '../../assets/accweather.png'
 
 
 
@@ -10,45 +11,15 @@ const Portfolio = () => {
   const data=[
     {
       id:1,
-      image:trading,
-      title:"titulo del proyecto",
+      image:weather,
+      title:"Weather App",
       github:'https://github.com',
-      demo:'https://github.com'
     },
     {
       id:2,
-      image:trading,
-      title:"titulo del proyecto",
-      github:'https://github.com',
-      demo:'https://github.com'
-    },
-    {
-      id:3,
-      image:trading,
-      title:"titulo del proyecto",
-      github:'https://github.com',
-      demo:'https://github.com'
-    },
-    {
-      id:4,
-      image:trading,
-      title:"titulo del proyecto",
-      github:'https://github.com',
-      demo:'https://github.com'
-    },
-    {
-      id:5,
-      image:trading,
-      title:"titulo del proyecto",
-      github:'https://github.com',
-      demo:'https://github.com'
-    },
-    {
-      id:1,
-      image:trading,
-      title:"titulo del proyecto",
-      github:'https://github.com',
-      demo:'https://github.com'
+      image:weather,
+      title:"Weather App",
+      github:'https://github.com/JoaquinMelogno/ForecastWApi',
     },
   ]
   return (
@@ -66,8 +37,6 @@ const Portfolio = () => {
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
                 <a href={github}className='btn' target='_blank'>Github</a>
-                <a href={demo} className='btn btn-primary' target='_blank'>Github</a>
-                
               </div>
   
             </article>
