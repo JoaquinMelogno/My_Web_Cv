@@ -34,8 +34,11 @@ const About = () => {
             </div>
           </div>
           <p className='presentacion'>
-          Hola estimad@ mi nombre es joaquin soy del interior del pais y este año me mude a montevideo a cursar la carrera de ingenieria en sistemas en la fing,
-          De igual manera pese a no estar en la facultad aun comence a realizar cursos de desarrollo el primero fue con el lenaguaje PHP y luego me empece a desarrollar mas en el lenguaje Javascript con el cual ahora me siento muy comodo junto con react como  para comenzar a trabajar con el, actualemente a la par de la facultad sigo realizando cursos/proyectos personales y aprendiendo diaramente habilidades nuevas, estoy muy motivado y con muchas ganas de comenzar mi carrera en el mundo de la programacion desde ya muchas gracias por visitar mi pagina y espero sea de tu agrado.
+          Hola estimad@ mi nombre es joaquin soy estudiante de la carrera de ingenieria en sistemas en la Facultad de Ingenieria UDELAR.{<br/>}
+
+          Comence a realizar cursos de desarrollo el primero fue con el lenaguaje PHP y luego me empece a desarrollar mas en el lenguaje Javascript con el cual ahora me siento muy comodo junto con react como  para comenzar a trabajar con el.{<br/>}
+          Actualemente a la par de la facultad sigo realizando cursos/proyectos personales y aprendiendo diaramente habilidades nuevas, estoy muy motivado y con muchas ganas de comenzar mi carrera en el mundo de la programacion.{<br/>}
+          desde ya muchas gracias por visitar mi pagina y espero sea de tu agrado.
           </p>
           
           <p className='saludo'>

@@ -14,8 +14,8 @@ const Portfolio = () => {
     {
       id:1,
       image:tripadv,
-      title:"Weather App",
-      github:'https://github.com',
+      title:"TripAdv",
+      github:'https://github.com/JoaquinMelogno/Trip_adv',
     },
     {
       id:2,
@@ -33,7 +33,7 @@ const Portfolio = () => {
   return (
     <section id='portfolio'>
       
-        <h1>Projectos</h1>
+        <h1>Proyectos</h1>
       <div className="container portfolio__container">
       {
         data.map(({id,image,github,demo,title})=>{
