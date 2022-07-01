@@ -41,7 +41,11 @@ background-color: var(--color-bg);
 color: var(--color-white);
 line-height: 1.7;
 background-image: url(../src/assets/istockphoto-1235300127-170667a.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
 }
+
 .container{
     width: var(--container-width-lg);
     margin: 0 auto;
