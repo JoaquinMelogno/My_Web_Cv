@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/My_Web_Cv/static/css/main.3312d66f.css",
+    "main.js": "/My_Web_Cv/static/js/main.8873e2f0.js",
+    "static/media/aboutme2.png": "/My_Web_Cv/static/media/aboutme2.ad52bde804c0165c09f5.png",
+    "static/media/tripadv.png": "/My_Web_Cv/static/media/tripadv.8acee6b6bdec70007b20.png",
+    "static/media/CV.pdf": "/My_Web_Cv/static/media/CV.79c73a7f923861234021.pdf",
+    "static/media/accweather.png": "/My_Web_Cv/static/media/accweather.db4e3a50d5f2dfef563b.png",
+    "static/media/me.jpg": "/My_Web_Cv/static/media/me.d6bdd2703611364f77dd.jpg",
+    "static/media/trading.jpg": "/My_Web_Cv/static/media/trading.67b511c2b5e3bab283d8.jpg",
+    "static/media/istockphoto-1235300127-170667a.jpg": "/My_Web_Cv/static/media/istockphoto-1235300127-170667a.fffa9d8076610054e7d7.jpg",
+    "index.html": "/My_Web_Cv/index.html",
+    "main.3312d66f.css.map": "/My_Web_Cv/static/css/main.3312d66f.css.map",
+    "main.8873e2f0.js.map": "/My_Web_Cv/static/js/main.8873e2f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3312d66f.css",
+    "static/js/main.8873e2f0.js"
+  ]
+}
