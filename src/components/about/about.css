@@ -66,6 +66,8 @@
     font-size: 1.5rem;
     color: white;
     font-weight: 300;
+    backdrop-filter: blur(90px);
+    padding: 10px;
 }
 a{
     font-size: 1.5rem;
