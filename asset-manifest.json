@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My_Web_Cv/static/css/main.e79d82bc.css",
-    "main.js": "/My_Web_Cv/static/js/main.8873e2f0.js",
+    "main.css": "/My_Web_Cv/static/css/main.5b9beaf8.css",
+    "main.js": "/My_Web_Cv/static/js/main.3a3cd401.js",
     "static/media/aboutme2.png": "/My_Web_Cv/static/media/aboutme2.ad52bde804c0165c09f5.png",
     "static/media/tripadv.png": "/My_Web_Cv/static/media/tripadv.8acee6b6bdec70007b20.png",
     "static/media/CV.pdf": "/My_Web_Cv/static/media/CV.79c73a7f923861234021.pdf",
@@ -10,11 +10,11 @@
     "static/media/me.jpg": "/My_Web_Cv/static/media/me.d6bdd2703611364f77dd.jpg",
     "static/media/trading.jpg": "/My_Web_Cv/static/media/trading.67b511c2b5e3bab283d8.jpg",
     "index.html": "/My_Web_Cv/index.html",
-    "main.e79d82bc.css.map": "/My_Web_Cv/static/css/main.e79d82bc.css.map",
-    "main.8873e2f0.js.map": "/My_Web_Cv/static/js/main.8873e2f0.js.map"
+    "main.5b9beaf8.css.map": "/My_Web_Cv/static/css/main.5b9beaf8.css.map",
+    "main.3a3cd401.js.map": "/My_Web_Cv/static/js/main.3a3cd401.js.map"
   },
   "entrypoints": [
-    "static/css/main.e79d82bc.css",
-    "static/js/main.8873e2f0.js"
+    "static/css/main.5b9beaf8.css",
+    "static/js/main.3a3cd401.js"
   ]
 }
